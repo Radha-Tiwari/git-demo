@@ -1,0 +1,5 @@
+buttons = {
+  "hello": QPushButton("Say hello"),
+  "leave": QPushButton("Goodbye"),
+  "calculate": QPushButton("3 + 9 = 12"),
+}
